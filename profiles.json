@@ -1,0 +1,107 @@
+[
+    {
+      "name": "John Doe",
+      "gender": "Male",
+      "branch": "CSE",
+      "year": "3rd",
+      "instaId": "@johndoe",
+      "image": "https://example.com/image1.jpg"
+    },
+    {
+      "name": "Jane Smith",
+      "gender": "Female",
+      "branch": "CSE-R",
+      "year": "2nd",
+      "instaId": "@janesmith",
+      "image": "https://example.com/image2.jpg"
+    },
+    {
+      "name": "Ali Khan",
+      "gender": "Male",
+      "branch": "CS",
+      "year": "4th",
+      "instaId": "@alikhan",
+      "image": "https://example.com/image3.jpg"
+    },
+    {
+      "name": "Rita Sharma",
+      "gender": "Female",
+      "branch": "IT",
+      "year": "3rd",
+      "instaId": "@ritasharma",
+      "image": "https://example.com/image4.jpg"
+    },
+    {
+      "name": "Vikram Singh",
+      "gender": "Male",
+      "branch": "AI",
+      "year": "2nd",
+      "instaId": "@vikramsingh",
+      "image": "https://example.com/image5.jpg"
+    },
+    {
+      "name": "Neha Gupta",
+      "gender": "Female",
+      "branch": "DS",
+      "year": "1st",
+      "instaId": "@nehagupta",
+      "image": "https://example.com/image6.jpg"
+    },
+    {
+      "name": "Rahul Verma",
+      "gender": "Male",
+      "branch": "AIML",
+      "year": "4th",
+      "instaId": "@rahulverma",
+      "image": "https://example.com/image7.jpg"
+    },
+    {
+      "name": "Anita Desai",
+      "gender": "Female",
+      "branch": "CSBS",
+      "year": "3rd",
+      "instaId": "@anitadesai",
+      "image": "https://example.com/image8.jpg"
+    },
+    {
+      "name": "Ajay Mehta",
+      "gender": "Male",
+      "branch": "IOT",
+      "year": "2nd",
+      "instaId": "@ajaymehta",
+      "image": "https://example.com/image9.jpg"
+    },
+    {
+      "name": "Sita Patel",
+      "gender": "Female",
+      "branch": "Cyber",
+      "year": "3rd",
+      "instaId": "@sitapatel",
+      "image": "https://example.com/image10.jpg"
+    },
+    {
+      "name": "Ravi Kumar",
+      "gender": "Male",
+      "branch": "Bio-Tech",
+      "year": "4th",
+      "instaId": "@ravikumar",
+      "image": "https://example.com/image11.jpg"
+    },
+    {
+      "name": "Pooja Agarwal",
+      "gender": "Female",
+      "branch": "M.tech",
+      "year": "1st",
+      "instaId": "@poojaagarwal",
+      "image": "https://example.com/image12.jpg"
+    },
+    {
+      "name": "Karan Singh",
+      "gender": "Male",
+      "branch": "MCA/BCA",
+      "year": "2nd",
+      "instaId": "@karansingh",
+      "image": "https://example.com/image13.jpg"
+    }
+  ]
+  
